@@ -1,12 +1,23 @@
-excerpt_separator: ""
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
 pygments: true
-markdown: kramdown
-url: http://ekagdn.github.io
 title: Cerita Sana Sini - Eka Online Logs
 email: emailsaya@zoho.com
-author: Putra Eka
 description: Ini blog saya menggunakan Jekyll dan github sebagai hosting
+url: http://ekagdn.github.io # the base hostname & protocol for your site
+author: Putra Eka
+twitter_username: ekagdn
+github_username:  ekagdn
 paginate: 7
 google_analytics: 
 disqus_shortname: putraeka
 highlighter: rouge
+
+# Build settings
+markdown: kramdown
