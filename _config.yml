@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ekagdn.github.io
+title: Cerita Sana Sini - Eka Online Logs
+email: emailsaya@zoho.com
+author: Putra Eka
+description: Ini blog saya menggunakan Jekyll dan github sebagai hosting
+paginate: 7
+google_analytics: 
