@@ -21,4 +21,6 @@ layout: default
     {% include fb_comments.html %}
 {% endif %}
 
-{% include disqus.html %}
+{% if site.disqus_shortname %}
+  {% include disqus.html %}
+{% endif %}
