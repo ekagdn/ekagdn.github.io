@@ -10,7 +10,7 @@ Bismillah
 
 Ini adalah posting kedua secara de facto, postingan pertama hilang karena tidak dipublish oleh tinypress :sad:
 
-Jadi kesal dan malas bikin posting, `asembanget do info`
+Jadi kesal dan malas bikin posting, `asembanget dot info`
 
 Judul artikelnya juga bukan ini, tapi hampir mirip sih. Tulisan yang mengalir dengan lancar hilang sekejap :sad lagi:
 
@@ -23,7 +23,7 @@ Karena nama eka.gdn masih available dan harganya cukup murah di alpnames cuma $0
 <p align="center">
 <img src="https://github.com/ekagdn/ekagdn.github.io/blob/master/img/domain-dot-gdn.png?raw=true" alt="Domain .GDN" title="Domain .GDN" /></p>
 
-jadi Alpnames ini sering menjual domain .pw, .top, .link, .review, dan terakhir .gdn dengan harga murah di tahun pertama.
+Jadi Alpnames ini sering menjual domain .pw, .top, .link, .review, dan terakhir .gdn dengan harga murah di tahun pertama.
 
 Bagi yang suka dengan ekstensi .pw baiknya membeli domain ini alpnames, saya dulu tahun pertama beli domain eka.pw dengan harga $06 trus perpanjang ditahun kedua cuma $2,5
 
