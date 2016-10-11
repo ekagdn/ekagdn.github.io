@@ -20,7 +20,7 @@ Akhirnya sekalian bikin tutorial deh, pada dashboard tinyboard ada menu 'Posts' 
 ## Mengapa beli domain dot GDN?
 Karena nama eka.gdn masih available dan harganya cukup murah di alpnames cuma $0,7 (rate 12.900-an). Bagi yang belum tahu Alpnames adalah domain registrar yang sering promo domain murah terutama domain selain TLD, istilahnya apa sih lupa saya.
 
-<img style="float:right" src="https://github.com/ekagdn/ekagdn.github.io/blob/master/img/domain-dot-gdn.png?raw=true" alt="Domain .GDN" title="Domain .GDN" />
+<img style="align:center" src="https://github.com/ekagdn/ekagdn.github.io/blob/master/img/domain-dot-gdn.png?raw=true" alt="Domain .GDN" title="Domain .GDN" />
 
 jadi Alpnames ini sering menjual domain .pw, .top, .link, .review, dan terakhir .gdn dengan harga murah di tahun pertama.
 
