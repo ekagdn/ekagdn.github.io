@@ -1,13 +1,5 @@
-{% if site.comments %}
-    <aside id="comments" class="disqus">
-    	<div class="container">
-    		<h3 class="alignable pull-left"></h3> <h3 class="alignable pull-right"> <i class="icon-disqus"></i></h3>
-    		<!--
-    	  		Copy the universal code from Disqus. In particular, the div with id #disqus_thread and the following Javascript
-    			As an Example see below.
-    			Start here
-    	   	-->
-            <div id="disqus_thread"></div>
+{% if page.comments != false %}
+<div id="disqus_thread"></div>
 <script type="text/javascript">
   var disqus_shortname  = '{{ site.disqus_shortname }}';
   var disqus_identifier = '{{ page.url }}';
@@ -19,8 +11,4 @@
   })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    		<!--
-    	  		End here
-    	  	-->
-    </aside>
 {% endif %}
