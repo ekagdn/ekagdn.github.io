@@ -9,3 +9,4 @@ description: Ini blog saya menggunakan Jekyll dan github sebagai hosting
 paginate: 7
 google_analytics: 
 disqus_shortname: putraeka
+highlighter: rouge
