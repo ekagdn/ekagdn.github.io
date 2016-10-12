@@ -32,4 +32,6 @@ Sebagai perbandingan saja, saya juga barusan merubah name server domain saya yan
 
 **_Update_**
 
-Akhirnya setelah beberapa jam (kurang lebih 4 jam) propagasi berhasil dan domain [eka.gdn][http://eka.gdn] akhirnya online.
+Akhirnya setelah beberapa jam (kurang lebih 4 jam) propagasi berhasil dan domain [eka.gdn][1] akhirnya online.
+
+[1]: http://eka.gdn
